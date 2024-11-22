@@ -21,7 +21,7 @@ This is the front-end application for the Dashboard, where users can log in with
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saran-mani/datanexify-frontend.git
+   git clone https://github.com/chabikant/calendar-frontend.git
    cd datanexify-frontend
    ```
 
